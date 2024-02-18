@@ -1,0 +1,1 @@
+I am learning write operations in file.I am learning append operation.Appending data synchronouly
