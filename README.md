@@ -27,3 +27,14 @@
 <h3>Delete (unlink) file operation using nodejs</h3>
 <li>fs.unlink() : Delete file in asynchronous way.</li>
 <li>fs.unlinkSync() : Delete file in synchronous way.</li>
+
+## Day 3: Regular Expression
+<h4>What are regular expressions</h4>
+<li>Creating regular expressions</li>
+<li>Using Regular expression Literals</li>
+<li>Using constructor Function</li>
+<h4>Common Examples of Regular Expressions</h4>
+<li>Finding Specific text using Regular expression</li>
+<li>Validating Emain using Regex.</li>
+<li>Validating Password using regex</li>
+
