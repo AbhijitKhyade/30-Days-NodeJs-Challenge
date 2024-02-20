@@ -38,3 +38,15 @@
 <li>Validating Emain using Regex.</li>
 <li>Validating Password using regex</li>
 
+## Day 4: Console Module
+<h3>Introduction to console</h3>
+<h4>Console class</h4>
+<li>Global console instance</li>
+<li>console.log() and all its variations</li>
+<li>Create a new console</li>
+<li>console.clear()</li>
+<li>console.count()</li>
+<li>console.countReset()</li>
+<li>console.error()</li>
+<li>console.warn()</li>
+
