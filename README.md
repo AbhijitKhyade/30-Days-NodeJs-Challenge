@@ -50,3 +50,8 @@
 <li>console.error()</li>
 <li>console.warn()</li>
 
+## Day 5: Errors
+Learned what are errors and errors in node.js and properties of errors in node.js.
+We also learned about error propagation and interception in nodejs , what is the concept of node.js styles callbacks and why it is better to avoid try/catch while using asynchronous functions. Lastly we learned about the 4 categories most of the errors belong to which are 
+Standard javascript errors , system errors , user-specified errors and assertion errors .
+
