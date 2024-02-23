@@ -58,3 +58,5 @@ Standard javascript errors , system errors , user-specified errors and assertion
 ## Day 6: Array Methods
 In this article we learned about arrays , how we can create arrays in node.js and array methods such as push , pop , shift , unshift , reverse , sort , splice , concat , indexOf , lastIndexOf , join , slice , every , filter , find , forEach , reduce , etc. All this methods are explained with code examples .
 
+## Day 7: NPM Packages
+we learned about the basics of npm. How we can install packages from npm locally and globally . Updating local and global packages using npm. Removing local and global packages.
