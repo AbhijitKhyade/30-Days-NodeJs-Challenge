@@ -55,3 +55,6 @@ Learned what are errors and errors in node.js and properties of errors in node.j
 We also learned about error propagation and interception in nodejs , what is the concept of node.js styles callbacks and why it is better to avoid try/catch while using asynchronous functions. Lastly we learned about the 4 categories most of the errors belong to which are 
 Standard javascript errors , system errors , user-specified errors and assertion errors .
 
+## Day 6: Array Methods
+In this article we learned about arrays , how we can create arrays in node.js and array methods such as push , pop , shift , unshift , reverse , sort , splice , concat , indexOf , lastIndexOf , join , slice , every , filter , find , forEach , reduce , etc. All this methods are explained with code examples .
+
