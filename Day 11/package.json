@@ -1,0 +1,15 @@
+{
+  "name": "30-days-nodejs-challenge",
+  "version": "1.0.0",
+  "description": "<ul>\r  <li> Serve a String using node.js server</li>\r <li>Serve html file using node.js server</li>\r <li>Serve JSON using node.js server</li>\r <li>Serve pdf file using node.js server</li>\r <li>Serve mp3 file using node.js server</li>\r <li>Serve video/mp4 file using node.js server</li>\r </ul>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
